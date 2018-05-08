@@ -3,3 +3,10 @@
 ################################################################################
 
 /RabbitMQConsole/bin/Debug
+/RabbitMQConsole/obj/Debug
+/Receive/bin/Debug
+/Receive/obj/Debug
+/.vs/RabbitConsole/v15/Server/sqlite3/storage.ide-wal
+/.vs/RabbitConsole/v15/Server/sqlite3/storage.ide-shm
+/.vs/RabbitConsole/v15/Server/sqlite3/storage.ide
+/.vs/RabbitConsole/v15/Server/sqlite3/db.lock

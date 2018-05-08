@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F33A9C6-7AAB-45B3-85BC-AB5F0ED6A7DC}</ProjectGuid>
+    <ProjectGuid>{B0BF51BC-0701-4886-B65C-975A6E06EB1A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RabbitConsole</RootNamespace>
-    <AssemblyName>RabbitConsole</AssemblyName>
+    <RootNamespace>Receive</RootNamespace>
+    <AssemblyName>Receive</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Send.cs" />
+    <Compile Include="Receive.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
