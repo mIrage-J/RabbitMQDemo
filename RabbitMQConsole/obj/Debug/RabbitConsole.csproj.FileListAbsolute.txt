@@ -1,7 +1,0 @@
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\bin\Debug\RabbitConsole.exe.config
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\bin\Debug\RabbitConsole.exe
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\bin\Debug\RabbitConsole.pdb
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\obj\Debug\RabbitConsole.csprojResolveAssemblyReference.cache
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\obj\Debug\RabbitConsole.csproj.CoreCompileInputs.cache
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\obj\Debug\RabbitConsole.exe
-F:\WorkInventory\RabbitMQConsole\RabbitMQConsole\obj\Debug\RabbitConsole.pdb
