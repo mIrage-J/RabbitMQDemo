@@ -10,3 +10,13 @@
 /.vs/RabbitConsole/v15/Server/sqlite3/storage.ide-shm
 /.vs/RabbitConsole/v15/Server/sqlite3/storage.ide
 /.vs/RabbitConsole/v15/Server/sqlite3/db.lock
+/Sender/bin/Debug/RabbitMQ.Client.xml
+/Sender/bin/Debug/RabbitMQ.Client.dll
+/Sender/bin/Debug/RabbitConsole.pdb
+/Sender/bin/Debug/RabbitConsole.exe.config
+/Sender/bin/Debug/RabbitConsole.exe
+/Sender/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.xml
+/Sender/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/Sender/obj/Release
+/Sender/obj/Debug
+/Receive/obj/Release
