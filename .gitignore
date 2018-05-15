@@ -20,3 +20,7 @@
 /Sender/obj/Release
 /Sender/obj/Debug
 /Receive/obj/Release
+/NewTask/bin/Debug
+/NewTask/obj/Debug
+/Worker/bin/Debug
+/Worker/obj/Debug

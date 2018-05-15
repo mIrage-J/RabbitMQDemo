@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RabbitMQConsole"
+    "\\Receive"
   ],
-  "SelectedNode": "\\RabbitMQConsole\\RabbitConsole.csproj",
+  "SelectedNode": "\\Receive\\Receive.cs",
   "PreviewInSolutionExplorer": false
 }
